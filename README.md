@@ -182,6 +182,7 @@ A lista é separada em tópicos, e os itens de cada tópico estão dispostos em 
 ## Desktop Environments (Ambientes Gráficos)
 - [GNOME Brasil](https://t.me/GNOMEBrasil)
 - [KDE-Brasil](https://t.me/kdebrasil)
+- [XFCE Brasil](https://t.me/xfcebrasil)
 
 ## Firewalls, Segurança, Gateways
 - [Ciência Hacker](https://t.me/cienciahacker)
