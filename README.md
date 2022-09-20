@@ -252,4 +252,5 @@ A lista é separada em tópicos, e os itens de cada tópico estão dispostos em 
 - [Somos KDE](https://t.me/somos_kde)
 - [Tech Conectados](https://t.me/techconectados)
 - [Tech Maniacs](https://t.me/tech_maniacs)
+- [Tecnologia da Informação💻🐧🎩](https://t.me/tecnologiadainfo)
 - [TUDO SOBRE T.I](https://t.me/tudosobreti)
