@@ -22,7 +22,7 @@ A lista é separada em tópicos, e os itens de cada tópico estão dispostos em 
 - [ansible-users-br](https://t.me/ansiblebr)
 - [API Builders BR](https://t.me/apiBuilders)
 - [Assembly Programming](https://t.me/assemblybr)
-- [Basic Brasil](https://t.me/basic_br}
+- [Basic Brasil](https://t.me/basic_br)
 - [Big Data BR](https://t.me/bigdatabr)
 - [Bootstrap Brasil](https://t.me/bootstrapbr)
 - [Bot Developers](https://t.me/brbotdevs)
