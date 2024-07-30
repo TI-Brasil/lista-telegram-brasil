@@ -5,13 +5,16 @@ A lista é separada em tópicos, e os itens de cada tópico estão dispostos em 
 
 ## Desenvolvimento em Geral
 - [Além do Código](https://t.me/alemdocodigo)
+- [Back-End Brasil 🇧🇷](https://t.me/backend_br)
 - [Clube dos Programadores](https://t.me/clubedosprogramadores)
 - [Desenvolvedores Front-End Brasil](https://t.me/devwebfrontend)
+- [Desenvolvimento de Bots](https://t.me/botdevsbr)
 - [Desenvolvimento de Software](https://t.me/softwarebr)
 - [Desenvolvimento Web](https://t.me/devwebinfo)
 - [Desenvolvimento web Brasil](https://t.me/webdevbrasil)
 - [DevCaminhante](https://t.me/DevCaminhante)
 - [Developers](https://t.me/devs_brasil)
+- [Front-End Brasil 🇧🇷](https://t.me/frontend_br)
 - [Linguagens de Programação](https://t.me/ProgramadoresBrasil)
 - [OsProgramadores](https://t.me/osprogramadores)
 - [Programeiros](https://t.me/programeiros)
@@ -26,6 +29,7 @@ A lista é separada em tópicos, e os itens de cada tópico estão dispostos em 
 - [Big Data BR](https://t.me/bigdatabr)
 - [Bootstrap Brasil](https://t.me/bootstrapbr)
 - [Bot Developers](https://t.me/brbotdevs)
+- [Bun Brasil 🇧🇷](https://t.me/bun_br)
 - [C_user_](https://t.me/C_user)
 - [C/C++/42 Império do Brasil](https://t.me/ccppbrasil)
 - [CakePHP Brasil](https://t.me/cakephpbr)
@@ -227,7 +231,7 @@ A lista é separada em tópicos, e os itens de cada tópico estão dispostos em 
 - [LibreOffice Português](https://t.me/libreofficebrasil)
 - [LibreOfficeBR](https://t.me/libreofficebr)
 - [VIM-BR](https://t.me/vimbr)
-- [VS Code Brasil](https://t.me/vscodebr)
+- [VS Code Brasil 🇧🇷](https://t.me/vscode_br)
 
 ## Empregos, estágios ou mercado de trabalho
 - [Guia Dev](https://t.me/GuiaDev)
