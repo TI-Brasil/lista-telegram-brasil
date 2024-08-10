@@ -66,7 +66,6 @@ A lista é separada em tópicos, e os itens de cada tópico estão dispostos em 
 - [Java](https://t.me/javaofficial)
 - [Java (Português)](https://t.me/javabr)
 - [JavaScript Brasil](https://t.me/javascriptbr)
-- [JavaScript Brasil OFICIAL](https://t.me/javascriptbrasil)
 - [jQuery Brasil](https://t.me/jquerybr)
 - [Just Python](https://t.me/justpython)
 - [Kotlin em Português](https://t.me/kotlin_br_pt)
