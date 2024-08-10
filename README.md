@@ -29,6 +29,7 @@ A lista é separada em tópicos, e os itens de cada tópico estão dispostos em 
 - [Big Data BR](https://t.me/bigdatabr)
 - [Bootstrap Brasil](https://t.me/bootstrapbr)
 - [Bot Developers](https://t.me/brbotdevs)
+- [Bun Brasil] (https://t.me/bunjsbr)
 - [Bun Brasil 🇧🇷](https://t.me/bun_br)
 - [C_user_](https://t.me/C_user)
 - [C/C++/42 Império do Brasil](https://t.me/ccppbrasil)
