@@ -208,7 +208,6 @@ A lista é separada em tópicos, e os itens de cada tópico estão dispostos em 
 - [FreeNAS BR](https://t.me/freenasbr)
 - [GLPI e Gestão de Service Desk](https://t.me/glpibr)
 - [Grafana Brasil](https://t.me/grafanabr)
-- [Grafana Brasil](https://t.me/grafanabr)
 - [IstioBR](https://t.me/istiobr)
 - [Kubernetesbr](https://t.me/kubernetesbr)
 - [Linux-SE](https://t.me/linux_se)
